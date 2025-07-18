@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+.env*
+
+# Lock file that caused deployment issues
+package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Mac files
+.DS_Store
