@@ -1,0 +1,12 @@
+{
+  "name": "okx-bot-stable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "grammy": "^1.21.1",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.3.1"
+  }
+}
